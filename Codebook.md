@@ -14,10 +14,10 @@ This is the code book of variables contained in the dataset "my_data_summarized"
   
 Variables below can be described accodring to their different parts:
 par1_part2_part3_(part4)
-* part1: time(time domain signal) or frequency (frenquency domain signal)
-* part2: the measures
-* part3: the calculation: mean or standart deviation (std)
-* part4: the axis: X or Y or Z
+ * part1: time(time domain signal) or frequency (frenquency domain signal)
+ * part2: the measures
+ * part3: the calculation: mean or standart deviation (std)
+ * part4 (optional): the axis: X or Y or Z
 
 * time_BodyAcc_Mean_X                
 * time_BodyAcc_Mean_Y              
