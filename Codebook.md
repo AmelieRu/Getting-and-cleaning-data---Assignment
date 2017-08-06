@@ -13,18 +13,17 @@ This is the code book of variables contained in the dataset "my_data_summarized"
   The id of the subject observed.
   
 Variables below can be described accodring to their different parts: par1_part2_part3_part4
-
-  * part1: time(time domain signal) or frequency (frenquency domain signal)
-  * part2: the measures
-  * part3: the calculation: mean or standart deviation (std)
-  * part4 (optional): the axis: X or Y or Z
+part1: time(time domain signal) or frequency (frenquency domain signal)
+part2: the measures
+part3: the calculation: mean or standart deviation (std)
+part4 (optional): the axis: X or Y or Z
 
 * time_BodyAcc_Mean_X                
 * time_BodyAcc_Mean_Y              
 * time_BodyAcc_Mean_Z              
 * time_BodyAcc_Std_X               
 * time_BodyAcc_Std_Y               
-* time_BodyAcc_Std_Z             
+* time_BodyAcc_Std_Z           
 * time_GravityAcc_Mean_X            
 * time_GravityAcc_Mean_Y            
 * time_GravityAcc_Mean_Z             
