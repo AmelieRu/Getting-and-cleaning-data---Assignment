@@ -22,6 +22,8 @@ part3: the calculation: mean or standart deviation (std)
 
 part4 (optional): the axis: X or Y or Z
 
+Each of these variables is the average for each activity and each subject.
+
 
 * time_BodyAcc_Mean_X                
 * time_BodyAcc_Mean_Y              
